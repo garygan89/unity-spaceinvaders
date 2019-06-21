@@ -1,0 +1,118 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 23.21.13.9125]
+    Renderer: NVIDIA GeForce 940MX
+    Vendor:   NVIDIA
+    VRAM:     2010 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Gary\Unity Projects\_tmp\spaceinvaders\Release\spaceinvaders(0780808)_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.029 seconds
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 3.276644 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1c20 -> priority: 1 
+  Thread -> id: 2618 -> priority: 1 
+  Thread -> id: 2050 -> priority: 1 
+  Thread -> id: 31c -> priority: 1 
+Loading next level: LEVEL_2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading next level: LEVEL_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to switch to a weapon that does not exist.  Make sure you have all the correct weapons in your weapons array.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Restarting current level: LEVEL_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Restarting current level: LEVEL_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Over, You LOSE!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game reset!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading next level: LEVEL_2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading next level: LEVEL_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Ground!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Restarting current level: LEVEL_3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+YES YOU WIN!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Over, You WIN!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game reset!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

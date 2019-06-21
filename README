@@ -1,0 +1,62 @@
+# README
+
+@author: Gan Tchin Tze (0780808)
+@date: October 14, 2018
+@description: Space Invaders game on Unity
+
+- This project is compiled and built with Unity 2017.1.0f3 (64-bit) on Windows 10 x64.
+- The executables files (Windows x64) is located inside the [Release] folder.
+
+## External Asset Used
+- Easy Weapons
+https://assetstore.unity.com/packages/templates/systems/easy-weapons-19365
+
+## Game Features
+- 3 Levels
+-- Levels parameters can be added in LevelInfo.cs.
+-- Available parameters are:
+--- enemy number in x,y,z axes
+--- enemy moving speed
+--- enemy separation spacing
+- Player scoring
+- Multiple weapons selection
+- Enemy killed effects
+- Player lives (default is 3)
+- FPS UI Overlay (current level, remaining enemies, total scores, player lives)
+
+## Scoring method
+- A player live is deducted when an alien hit the player body or ground.
+- Current level is restarted when player lost a live. Total score is reset to 0.
+- Game over when player lives is 0.
+
+## Controls
+```
+Enter/Return: Start Game
+F1: Show game control
+F5: Reset game
+WASD/Directional button: Player movement
+Left mouse click: Fire weapon
+R: Reload ammo
+Spacebar: Jump
+Num #1-9 / Scroll Wheels: Weapon selection
+1: Pistol
+2: M4
+3: Shotgun
+4: M79 Grenade Launcher (P)
+5: Cluser Bomb Launcher
+6: Beam Gun
+7: Rail Gun (P)
+8: Rocket Launcher (P)
+```
+
+*Currently only Raycast/Beam weapons will trigger the 'alien' collision effect.
+
+## Future TODOS
+- Leaderboard with Top 10 player scoring
+- Persistent player data storing
+- Randomize aliens spawning position and separation in further levels
+- Variety of aliens moving behaviour instead of default linear speed movement in horizontal and vertical direction, e.g. zigzag, warp/teleport
+- Per second update of movement instead of per frame movement update, i.e. similar to Space Invaders arcade 1s movement
+- Scoring multiplier per level, e.g. 1x for Level1, 1.2x for Level2, etc..
+- Space-like skybox and terrain (e.g. moon)
+
